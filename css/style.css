@@ -357,7 +357,7 @@ header a{
     
 }
 .nav__btn-mobile img{
-    width: 100%;
+    width: 125%;
 }
 .nav__overlay{
     position: fixed;
