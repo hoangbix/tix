@@ -51,6 +51,9 @@ header a{
 .header__menu a:hover{
     color: #fb4226;
 }
+.navbar-toggler{
+    padding: 0 !important;
+}
 .btn__location,
 .btn__login{
     display: flex;
