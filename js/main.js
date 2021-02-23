@@ -79,21 +79,10 @@ tabsBody.forEach((tabBody, index) => {
 
 $(window).load(function() {
     $('body').removeClass('preloading');
-    $('#preload').delay(1000).fadeOut('fast');
+    $('#preload').delay(500).fadeOut('fast');
 });
 
 
-
-// var btnsHide = $("#btnHide");
-
-// btnsHide.forEach((btnHide, index) => {
-
-//     btnHide.addEventListener("click", function(){
-        
-//         btnHide.classList.add("aaaaaaaaa");
-//     })
-
-// });
 
 
 
