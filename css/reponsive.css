@@ -213,6 +213,9 @@
         left: 40%;
         transform: translate(-50%, -50%);
     }
+    .apphome__downdApp button{
+        padding: 8px;
+    }
 }
 
 /* SUPER SMALL MOBILE */
@@ -245,5 +248,8 @@
         top: 50%;
         left: 40%;
         transform: translate(-50%, -50%);
+    }
+    .apphome__downdApp button{
+        padding: 8px;
     }
 }
