@@ -58,7 +58,7 @@
     .preload-icon {
         position: absolute;
         width: 100px;
-        top: 50%;
+        top: 30%;
         left: 45%;
         transform: translate(-50%, -50%);
     }
@@ -134,7 +134,7 @@
     .preload-icon {
         position: absolute;
         width: 100px;
-        top: 50%;
+        top: 30%;
         left: 45%;
         transform: translate(-50%, -50%);
     }
@@ -184,7 +184,7 @@
     .preload-icon {
         position: absolute;
         width: 100px;
-        top: 50%;
+        top: 30%;
         left: 40%;
         transform: translate(-50%, -50%);
     }
