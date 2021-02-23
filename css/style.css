@@ -103,7 +103,7 @@ header a{
     position: relative;
 }
 .venobox__img img{
-    max-width: 100%;
+    width: 100%;
 }
 .venobox__play{
     position: absolute;
