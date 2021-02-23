@@ -140,6 +140,12 @@
     }
 }
 
+/* FIX LỖI iPAD */
+@media (min-width: 767.9px) and (max-width: 768.9px){
+    .apphome__slider--list{
+        left: 43%;
+    }
+}
 
 
 /* MOBILE */
@@ -180,6 +186,9 @@
     }
     .apphome__slider {
         right: 5%;
+    }
+    .footer__bottom-text{
+        padding: 0;
     }
     .preload-icon {
         position: absolute;
